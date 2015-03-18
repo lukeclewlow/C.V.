@@ -65,4 +65,4 @@ I am good at working with a team, sharing knowledge and expanding and building u
 
 ### Contact Me
 
-[Email Me](luke.clewlow@gmail.com)
+Email Me: luke.clewlow@gmail.com
