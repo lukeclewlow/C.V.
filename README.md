@@ -1,6 +1,6 @@
 # Luke Clewlow
 
-An inspired and fast learning junior developer who loves building things. I have recently graduated from [Maker's Academy](www.makersacademy.com/) where I have spent 12 weeks intinsively learning to code. I'm looking to work in an Agile environment with positive people where I can continue to learn and develop my code craftmanship.
+An enthusiastic and fast learning junior developer who loves building things. After more than a few "Hello Worlds" I decided to learn programming full-time and have recently graduated from [Maker's Academy](www.makersacademy.com/) where I have spent 12 weeks intensively learning to code. I'm looking to work in an Agile environment with positive people where I can continue to learn and develop my code craftmanship.
 
 ## Skills
 
@@ -28,7 +28,8 @@ I had the opportunity to work with a charity for my final project at Makers Acad
 
 ### Makers Academy - Dec'14 to Mar'15
 
-- Independent learner
+- Highly selective 12-week bootcamp
+- Independent learning
 - Best googling skills around
 - OOP, BDD, TDD, SOLID, MVC
 - Taking pride in the crafting of quality code
