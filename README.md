@@ -9,7 +9,7 @@ An enthusiastic and fast learning junior developer who loves building things. Af
 Through my time at Maker's Academy I have learnt good coding and testing practices in both Ruby and Javascript.
 
 - Embracing SOLID principles
-- Experienced in version control with Git
+- Version control with Git
 - Adopted Agile values, principles and practices
 - Massive advocate of Test and Behavioural Driven Development
 - RSpec, Cucumber, and Capybara for Unit and Feature testing in Ruby and Rails or Sinatra
@@ -62,6 +62,18 @@ I am good at working with a team, sharing knowledge and expanding and building u
 - Writing Elegant Code
 - Technology and the future
 - Lifelong learning
+
+### Work History
+
+Management Accountant - Precise Media Monitoring, London Sep'12 - Nov'14
+
+General Busybody - Nationwide Crash Repair Centres, Bristol Jul'11 - Jul'12
+
+Bookseller - Waterstones, Bristol Dec'10 - Feb'11
+
+Postman, Bristol Oct'09 - Jul'10
+
+Duty Manager/Lifeguard - Red Lodge Swimming Pool, Southampton Dec'03 - Feb'06
 
 ### Contact Me
 
