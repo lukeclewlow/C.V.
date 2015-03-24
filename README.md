@@ -58,10 +58,12 @@ I am good at working with a team, sharing knowledge and expanding and building u
 
 ### Interests
 
+- Building things
 - Electronic Music Production 
 - Writing Elegant Code
 - Technology and the future
 - Lifelong learning
+- Recently involved building [this app](http://www.gamezebo.com/2015/03/23/ticklefluff-is-a-crazy-mix-of-virtual-pet-rhythm-and-quick-reaction-gameplay/), I was involved in the entire process which was an awesome experience but wrote all the music and the sound effects myself (yes, that's my voice, but I don't sound like that in real life)
 
 ### Work History
 
