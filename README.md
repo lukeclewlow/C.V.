@@ -32,6 +32,14 @@ I am good at working with a team, sharing knowledge and expanding and building u
 - I had the opportunity to work with a charity for my final project at Makers Academy. This meant involving them in the planning stages and continuously keeping communication open so that we could quickly iterate and give them a working prototype as close to their specifications as possible.
 - I have been pair programming every week throughout my time at Makers Academy. This teaches you how best to work with lots of different people, and how to be more productive as a team of two than you would be on your own.
 
+### Interests
+
+- Building things
+- [Electronic Music Production](https://soundcloud.com/luk3nuk3m)
+- Writing Elegant Code
+- Technology and the future
+- Lifelong learning
+- Recently involved building [this app](http://www.gamezebo.com/2015/03/23/ticklefluff-is-a-crazy-mix-of-virtual-pet-rhythm-and-quick-reaction-gameplay/), I was involved in the entire process which was an awesome experience but wrote all the music and the sound effects myself (yes, that's my voice, but I don't sound like that in real life)
 
 ## Education
 
@@ -55,15 +63,6 @@ I am good at working with a team, sharing knowledge and expanding and building u
 - Analysing problems, having a good conceptual overview of the issues, and applying a suitable solution.
 - Constructive criticism - teaches you the virtues of differing viewpoints and how to debate issues without ego
 - I wrote my dissertation on the unreality of time, which allowed me to try and learn some theoretical physics, and gave me a really good reason to miss all my deadlines!
-
-### Interests
-
-- Building things
-- [Electronic Music Production](https://soundcloud.com/luk3nuk3m)
-- Writing Elegant Code
-- Technology and the future
-- Lifelong learning
-- Recently involved building [this app](http://www.gamezebo.com/2015/03/23/ticklefluff-is-a-crazy-mix-of-virtual-pet-rhythm-and-quick-reaction-gameplay/), I was involved in the entire process which was an awesome experience but wrote all the music and the sound effects myself (yes, that's my voice, but I don't sound like that in real life)
 
 ### Work History
 
