@@ -59,7 +59,7 @@ I am good at working with a team, sharing knowledge and expanding and building u
 ### Interests
 
 - Building things
-- Electronic Music Production 
+- [Electronic Music Production](https://soundcloud.com/luk3nuk3m)
 - Writing Elegant Code
 - Technology and the future
 - Lifelong learning
