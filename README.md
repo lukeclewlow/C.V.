@@ -14,6 +14,7 @@ Through my time at Maker's Academy I have learnt good coding and testing practic
 - Massive advocate of Test and Behavioural Driven Development
 - RSpec, Cucumber, and Capybara for Unit and Feature testing in Ruby and Rails or Sinatra
 - Jasmine, Mocha, Chai, Selenium for Unit and Feature testing in JS/Node.js
+- Since the course I have been focusing on learning more technologies and expanding my breadth of knowledge
 
 
 ### Problem Solving
@@ -39,7 +40,7 @@ I am good at working with a team, sharing knowledge and expanding and building u
 - Writing Elegant Code
 - Technology and the future
 - Lifelong learning
-- Recently involved building [this app](http://www.gamezebo.com/2015/03/23/ticklefluff-is-a-crazy-mix-of-virtual-pet-rhythm-and-quick-reaction-gameplay/), I was involved in the entire process which was an awesome experience but wrote all the music and the sound effects myself (yes, that's my voice, but I don't sound like that in real life)
+- Recently involved building [this app](http://www.gamezebo.com/2015/03/23/ticklefluff-is-a-crazy-mix-of-virtual-pet-rhythm-and-quick-reaction-gameplay/), I was involved in the entire process which was an awesome experience but wrote all the music and the sound effects myself (yes, I am the voice of ticklefluff!)
 
 ## Education
 
