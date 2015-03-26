@@ -40,7 +40,7 @@ I am good at working with a team, sharing knowledge and expanding and building u
 - Writing Elegant Code
 - Technology and the future
 - Lifelong learning
-- Recently involved building [this app](http://www.gamezebo.com/2015/03/23/ticklefluff-is-a-crazy-mix-of-virtual-pet-rhythm-and-quick-reaction-gameplay/), I was involved in the entire process which was an awesome experience but wrote all the music and the sound effects myself (yes, I am the voice of ticklefluff!)
+- Recently involved building [this app](https://itunes.apple.com/app/ticklefluff/id965582073?mt=8), I was involved in the entire process which was an awesome experience but wrote all the music and the sound effects myself (yes, I am the voice of ticklefluff!)
 
 ## Education
 
