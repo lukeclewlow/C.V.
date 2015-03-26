@@ -67,15 +67,15 @@ I am good at working with a team, sharing knowledge and expanding and building u
 
 ### Work History
 
-Management Accountant - Precise Media Monitoring, London Sep'12 - Nov'14
+Management Accountant - Precise Media Monitoring, London. Sep'12 - Nov'14
 
-General Busybody - Nationwide Crash Repair Centres, Bristol Jul'11 - Jul'12
+General Busybody - Nationwide Crash Repair Centres, Bristol. Jul'11 - Jul'12
 
-Bookseller - Waterstones, Bristol Dec'10 - Feb'11
+Bookseller - Waterstones, Bristol. Dec'10 - Feb'11
 
-Postman, Bristol Oct'09 - Jul'10
+Postman, Bristol. Oct'09 - Jul'10
 
-Duty Manager/Lifeguard - Red Lodge Swimming Pool, Southampton Dec'03 - Feb'06
+Duty Manager/Lifeguard - Red Lodge Swimming Pool, Southampton. Dec'03 - Feb'06
 
 ### Contact Me
 
