@@ -55,7 +55,7 @@ I am good at working with a team, sharing knowledge and expanding and building u
 - Ruby, Rails, Javascript, Node.js
 - Rspec, Cucumber, Jasmine, Mocha, Selenium
 
-### University of the West of England, Bristol - Dec'06 to Jun'09 
+### University of the West of England, Bristol - Sep'06 to Jun'09 
 
 - Philosophy - particularly continental
 - 2:1
