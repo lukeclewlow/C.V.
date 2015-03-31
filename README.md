@@ -25,6 +25,16 @@ I was drawn towards doing a Philosophy degree, and later Programming, largely th
 - You need to have a good conceptual overview of the problem space and the specific issues in order to tackle any philosophical question.
 - I have experience in tackling problems in a professional environment. Whilst working as a Management Accountant I was constantly required to come up with new ways of extracting and making data accessible within the confines of the databases and reporting systems.
 
+### Self-Starting Independent Learner
+
+I have taught myself a lot of skills. I'm continually picking up new things and am fantastically driven to conquer new things!
+
+- [Electronic Music Production](https://soundcloud.com/luk3nuk3m), I learnt from the ground up using only the internet and trial and error. Google is as helpful for this as it is for coding, and the experience isn't entirely different. There are many passionate people willing to offer their expertise to novices which is so great to see! 
+- I taught myself piano, mainly just through perserverance and practice. I was already able to read music which helped, but the rest I have picked up myself.
+- I have learnt basic joinery and built myself a rather nifty little table (although ever so slightly wobbly)!
+- I circuit-bent an old yamaha keyboard to produce some weird and wonderful sounds, learning a little about electronics and hardware along the way.
+- All of these things have taught me how to approach learning without the need for strict guidance. How to break vast problems into smaller chunks, how to navigate documentation and filter information when there is too much available.
+
 ### Communication and Team Work
 
 I am good at working with a team, sharing knowledge and expanding and building upon my own to get the most out of working together.
