@@ -89,4 +89,4 @@ Duty Manager/Lifeguard - Red Lodge Swimming Pool, Southampton. Dec'03 - Feb'06
 
 ### Contact Me
 
-Email Me: luke.clewlow@gmail.com
+[Email Me](mailto: luke.clewlow@gmail.com) - [Twitter](https://twitter.com/_Luke_Nukem_) - [Linkedin](https://www.linkedin.com/profile/view?id=408402090&trk=nav_responsive_tab_profile)
