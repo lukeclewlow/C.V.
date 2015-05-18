@@ -50,7 +50,7 @@ I am good at working with a team, sharing knowledge and expanding and building u
 - Writing Elegant Code
 - Technology and the future
 - Lifelong learning
-- Recently involved building [this app](https://itunes.apple.com/app/ticklefluff/id965582073?mt=8), I was involved in the entire process which was an awesome experience but wrote all the music and the sound effects myself (yes, I am the voice of ticklefluff!)
+- Recently involved building [this app](https://itunes.apple.com/app/ticklefluff/id965582073?mt=8), I was involved in the entire process which was an awesome experience but wrote all the music and the sound effects myself (yes, I am the voice of ticklefluff! And no, I don't sound like that in real life!)
 
 ## Education
 
@@ -89,4 +89,4 @@ Duty Manager/Lifeguard - Red Lodge Swimming Pool, Southampton. Dec'03 - Feb'06
 
 ### Contact Me
 
-[Email Me](mailto: luke.clewlow@gmail.com) - [Twitter](https://twitter.com/_Luke_Nukem_) - [Linkedin](https://www.linkedin.com/profile/view?id=408402090&trk=nav_responsive_tab_profile)
+[Email](mailto: luke.clewlow@gmail.com) - [Twitter](https://twitter.com/_Luke_Nukem_) - [Linkedin](https://www.linkedin.com/profile/view?id=408402090&trk=nav_responsive_tab_profile)
